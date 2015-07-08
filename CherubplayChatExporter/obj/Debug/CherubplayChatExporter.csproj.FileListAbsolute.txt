@@ -1,0 +1,48 @@
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.exe.config
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.exe
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.pdb
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.csprojResolveAssemblyReference.cache
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\MainWindow.baml
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\MainWindow.g.cs
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\App.g.cs
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter_MarkupCompile.cache
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.g.resources
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.Properties.Resources.resources
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.csproj.GenerateResource.Cache
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.exe
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.pdb
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.dll
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.pdb
+c:\users\-sandee\documents\visual studio 2012\Projects\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.xml
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.exe.config
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.exe
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.pdb
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.exe
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.pdb
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.dll
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.xml
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.csprojResolveAssemblyReference.cache
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\MainWindow.baml
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\MainWindow.g.cs
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\App.g.cs
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter_MarkupCompile.cache
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.g.resources
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.Properties.Resources.resources
+C:\Users\-Sandee\Documents\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.csproj.GenerateResource.Cache
+I:\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.exe.config
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.exe
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.pdb
+I:\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.exe
+I:\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\CherubplayChatExporter.pdb
+I:\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.dll
+I:\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.pdb
+I:\CherubplayChatExporter\CherubplayChatExporter\bin\Debug\HtmlAgilityPack.xml
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.csprojResolveAssemblyReference.cache
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\MainWindow.baml
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\MainWindow.g.cs
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\App.g.cs
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter_MarkupCompile.cache
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.g.resources
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.Properties.Resources.resources
+I:\CherubplayChatExporter\CherubplayChatExporter\obj\Debug\CherubplayChatExporter.csproj.GenerateResource.Cache

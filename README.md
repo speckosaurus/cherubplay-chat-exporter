@@ -5,8 +5,6 @@ The tool is currently functional, but is still a work in progress! I created thi
 
 Some things missing from the tool includes:
 
-1. Adding user symbols to each message. Eg "🌀: Karkat said hi."
-
-2. Updating the UI in real time to give live updates, such as "3/41 pages exported"
+1. Updating the UI in real time to give live updates, such as "3/41 pages exported"
 
 3. Additional option to export OOC messages by accepting username and password

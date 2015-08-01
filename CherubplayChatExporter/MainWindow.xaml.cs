@@ -124,11 +124,16 @@ namespace CherubplayChatExporter
             HAP.HtmlDocument doc = getHtml(chatUrl, 1);
 
             // parse 1st page html
-            var inputs = doc.DocumentNode.Descendants("p");
-            // TODO: read <li> tag and extract message (<p>) and user symbol from this
-            foreach (var input in inputs)
+            HAP.HtmlNodeCollection nodes = doc.DocumentNode.SelectNodes("//li[@class='message_ic']");
+            
+            foreach (HAP.HtmlNode node in nodes)
             {
-                conversation = conversation + input.InnerText + "\n\n";
+                Console.WriteLine(node.Attributes);
+
+                String symbol = node.GetAttributeValue("data-symbol", null);
+                String message = node.SelectSingleNode("p").InnerText;
+
+                conversation = conversation + symbol + ": " + message + "\n\n";
             }
 
             // get total number of pages in chat
@@ -156,10 +161,16 @@ namespace CherubplayChatExporter
                     HAP.HtmlDocument doc = getHtml(chatUrl, i);
 
                     // parse html
-                    var inputs = doc.DocumentNode.Descendants("p");
-                    foreach (var input in inputs)
+                    HAP.HtmlNodeCollection nodes = doc.DocumentNode.SelectNodes("//li[@class='message_ic']");
+
+                    foreach (HAP.HtmlNode node in nodes)
                     {
-                        conversation = conversation + input.InnerText + "\n\n";
+                        Console.WriteLine(node.Attributes);
+
+                        String symbol = node.GetAttributeValue("data-symbol", null);
+                        String message = node.SelectSingleNode("p").InnerText;
+
+                        conversation = conversation + symbol + ": " + message + "\n\n";
                     }
 
                     setProgressOutput(i + "/" + totalPages + " pages complete.");
